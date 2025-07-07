@@ -11,6 +11,7 @@ I translated it into Python + NumPy with the help of [Grok](https://x.ai/grok).
 ### Prerequisites
 
 [numpy](https://numpy.org/)>=1.23.3
+
 [jackpy](https://github.com/stla/jackpy) (if you want to run `test_with_jackpy.py`)
 
 ### License
