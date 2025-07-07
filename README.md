@@ -17,9 +17,3 @@ I translated it into Python + NumPy with the help of [Grok](https://x.ai/grok).
 ### License
 
 GNU General Public License v3.0
-
-### Contact
-
-wonghang (at) gmail (dot) com
-
-WONG is my surname.
