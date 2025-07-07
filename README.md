@@ -1,6 +1,6 @@
 ### Introduction
 
-This is a Python implementation for efficiently computing the [Jack polynomial](https://mathworld.wolfram.com/JackPolynomial.html), based on the algorithm described in the paper:
+This is a Python implementation for efficiently computing the (J-normalized) [Jack polynomial](https://mathworld.wolfram.com/JackPolynomial.html), based on the algorithm described in the paper:
 
 *Koev, Plamen, and Alan Edelman. "The efficient evaluation of the hypergeometric function of a matrix argument." Mathematics of Computation 75.254 (2006): 833–846.*
 
